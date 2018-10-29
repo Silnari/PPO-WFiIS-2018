@@ -9,7 +9,7 @@ struct MapPoint{
 	double y;
 };
 
-MapPoint construct(char text[], double szer, double dl);
+MapPoint construct(const char text[], double szer, double dl);
 
 void print(MapPoint mp);
 
