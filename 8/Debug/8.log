@@ -1,0 +1,13 @@
+﻿  Matrix.cpp
+d:\c++ testy\8\matrix.cpp(9): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\c++ testy\8\matrix.cpp(24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Vector.cpp
+d:\c++ testy\8\vector.cpp(9): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\c++ testy\8\vector.cpp(24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\c++ testy\8\vector.cpp(46): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+d:\c++ testy\8\main.cpp(38): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+main.obj : error LNK2001: nierozpoznany symbol zewnętrzny "unsigned int MAX_VEC" (?MAX_VEC@@3IA)
+Vector.obj : error LNK2001: nierozpoznany symbol zewnętrzny "unsigned int MAX_VEC" (?MAX_VEC@@3IA)
+D:\c++ testy\8\Debug\8.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
